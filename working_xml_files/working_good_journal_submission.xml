@@ -1,0 +1,104 @@
+<doi_batch
+	xmlns="http://www.crossref.org/schema/4.4.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.4.2" xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 http://www.crossref.org/schema/deposit/crossref4.4.2.xsd">
+	<script/>
+	<head>
+		<doi_batch_id>Arafatlivetest.x</doi_batch_id>
+		<timestamp>20240416204858</timestamp>
+		<depositor>
+			<depositor_name>contact@ives-openscience.eu/ives</depositor_name>
+			<email_address>arafat.dml@gmail.com</email_address>
+		</depositor>
+		<registrant>Society of Metadata Idealists</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>Georgian vitis germplasm</conference_name>
+				<conference_theme>001</conference_theme>
+				<conference_acronym>amrrt</conference_acronym>
+				<conference_sponsor>toyotabmw</conference_sponsor>
+				<conference_number>56464646</conference_number>
+				<conference_location>Americalondon</conference_location>
+				<conference_date start_day="23" start_month="01" start_year="2024" end_day="25" end_month="01" end_year="2024">Jan. 23-25, 2024</conference_date>
+			</event_metadata>
+			<proceedings_series_metadata>
+				<series_metadata>
+					<contributors>
+						<person_name sequence="first" contributor_role="chair">
+							<given_name>arafat</given_name>
+							<surname>yeasir</surname>
+							<ORCID authenticated="true">https://orcid.org/0000-0002-4011-3590</ORCID>
+						</person_name>
+					</contributors>
+					<titles>
+						<title>Georgian vitis germplasm: conservation, research and usage</title>
+					</titles>
+					<issn>2777-9173</issn>
+					<doi_data>
+						<doi>10.58233/Qz1PSqIo</doi>
+						<resource>https://blog.simplerscript.com</resource>
+					</doi_data>
+				</series_metadata>
+				<proceedings_title>Georgian vitis germplasm</proceedings_title>
+				<volume>vol1</volume>
+				<proceedings_subject>test subject</proceedings_subject>
+				<publisher>
+					<publisher_name>test Publisher</publisher_name>
+					<publisher_place>test</publisher_place>
+				</publisher>
+				<publication_date media_type="online">
+					<month>02</month>
+					<day>22</day>
+					<year>2022</year>
+				</publication_date>
+				<noisbn reason="simple_series"/>
+			</proceedings_series_metadata>
+			<conference_paper language="en" publication_type="full_text">
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>jon</given_name>
+						<surname>doe</surname>
+						<ORCID authenticated="true">https://orcid.org/0000-0002-1825-0097</ORCID>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>test</title>
+				</titles>
+				<publication_date media_type="online">
+					<month>01</month>
+					<day>20</day>
+					<year>2024</year>
+				</publication_date>
+				<crossmark>
+					<crossmark_version>2</crossmark_version>
+					<crossmark_policy>10.58233/NrLuVQZI</crossmark_policy>
+				</crossmark>
+				<doi_data>
+					<doi>10.58233/VfRiEOuG</doi>
+					<resource>https://dev.simplerscript.com/</resource>
+					<collection property="crawler-based">
+						<item crawler="iParadigms">
+							<resource>https://www.crossref.org/faqs.html</resource>
+						</item>
+					</collection>
+					<collection property="text-mining">
+						<item>
+							<resource>https://www.crossref.org/example.xml</resource>
+						</item>
+					</collection>
+					<collection property="link-header">
+						<item link_header_relationship="dul">
+							<resource>https://wp.simplerscript.com</resource>
+						</item>
+					</collection>
+				</doi_data>
+				<citation_list>
+					<citation key="ref1">
+						<doi>10.34104/ajpab.023.01480162</doi>
+					</citation>
+				</citation_list>
+			</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

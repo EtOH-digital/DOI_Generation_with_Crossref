@@ -1,0 +1,73 @@
+<doi_batch
+	xmlns="http://www.crossref.org/schema/4.4.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" version="4.4.2" xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 http://www.crossref.org/schema/deposit/crossref4.4.2.xsd">
+	<script/>
+	<head>
+		<doi_batch_id>ee8ee343786e1c0ff85f3c0</doi_batch_id>
+		<timestamp>20240420075239012</timestamp>
+		<depositor>
+			<depositor_name>contact@ives-openscience.eu/ives</depositor_name>
+			<email_address>arafat.dml@gmail.com</email_address>
+		</depositor>
+		<registrant>WEB-FORM</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>IVES Conference Series vine wine</conference_name>
+				<conference_acronym>ives</conference_acronym>
+				<conference_date>june/23/2019</conference_date>
+			</event_metadata>
+			<proceedings_metadata>
+				<proceedings_title>IVES Conference Series vine wine</proceedings_title>
+				<publisher>
+					<publisher_name>IVES Conference Series vine wine</publisher_name>
+				</publisher>
+				<publication_date media_type="print">
+					<month>06</month>
+					<day>23</day>
+					<year>2019</year>
+				</publication_date>
+				<publication_date media_type="online">
+					<month>06</month>
+					<day>28</day>
+					<year>2019</year>
+				</publication_date>
+				<noisbn reason="archive_volume"/>
+				<doi_data>
+					<doi>10.58233/ivescsvw</doi>
+					<resource>https://wp.simplerscript.com/about_ives/</resource>
+				</doi_data>
+			</proceedings_metadata>
+			<conference_paper>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>osman</given_name>
+						<surname>mr</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Influence of climate change conditions (elevated CO
+						<sub>2</sub> and temperature) on the grape composition of five tempranillo (
+						<i>Vitis vinifera</i> L.) Somatic variants
+					</title>
+				</titles>
+				<publication_date media_type="print">
+					<month>02</month>
+					<day>02</day>
+					<year>2020</year>
+				</publication_date>
+				<publication_date media_type="online">
+					<month>02</month>
+					<day>02</day>
+					<year>2020</year>
+				</publication_date>
+				<doi_data>
+					<doi>10.58233/8z4wFptn</doi>
+					<resource>https://wp.simplerscript.com/?p=37674</resource>
+				</doi_data>
+			</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

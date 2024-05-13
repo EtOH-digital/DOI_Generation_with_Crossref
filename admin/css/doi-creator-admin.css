@@ -1,0 +1,56 @@
+#doi-main-settings input[type='text'],
+#doi-main-settings input[type='email'],
+#doi-main-settings input[type='password'] {
+    min-width: 500px;
+}
+#doi-main-settings .api_env {
+    display: inline-block;
+    margin-right: 20px;
+}
+.viewXml {
+    margin-left: 5px;
+}
+.submitDOI {
+    margin-top: 5px;
+}
+.form-control{
+    width: 100% !important;
+    margin-top: 5px;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+button#submit-xml {
+    margin-top: 10px;
+    float: right;
+}
+#formTitle{
+    text-align: center;
+}
+.infoMsg{
+    text-align: center;
+    color: darkgreen;
+}
+td.create_doi.column-create_doi {
+    padding: unset;
+}
+a.thickbox.button.createDOI {
+    margin-top: 5px;
+    padding: 0 6px !important;
+}
+a.button.viewXml {
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 0 6px !important;
+}
+span.button.submitDOI {
+    margin-top: 5px;
+    padding: 0 6px !important;
+}
+#viewXml a.button.button-primary {
+    margin-top: 10px;
+    float: right;
+    margin-left: 10px;
+}
+#TB_ajaxContent {
+    margin-bottom: 15px;
+}

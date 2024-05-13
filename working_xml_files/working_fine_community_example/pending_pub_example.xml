@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.4.2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.4.2"
+    xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 http://www.crossref.org/schemas/crossref4.4.2.xsd">
+    <head>
+        <doi_batch_id>202305051602229717</doi_batch_id>
+        <timestamp>20230505160222</timestamp>
+        <depositor>
+            <depositor_name>muse</depositor_name>
+            <email_address>support@crossref.org</email_address>
+        </depositor>
+        <registrant>Project MUSE</registrant>
+    </head>
+    <body>
+        <pending_publication>
+            <publication>
+                <full_title>Bulletin of the Center for Children's Books</full_title>
+                <issn media_type="electronic">1558-6766</issn>
+            </publication>
+            <titles>
+                <title>Youth Media Awards 2023</title>
+            </titles>
+            <acceptance_date>
+                <month>05</month>
+                <day>05</day>
+                <year>2023</year>
+            </acceptance_date>
+            <doi>10.1353/bcc.2023.a884751</doi>
+        </pending_publication>
+    </body>
+</doi_batch>
